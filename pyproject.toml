@@ -1,0 +1,10 @@
+[project]
+name = "project-mh-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "openai>=2.28.0",
+    "pypdf2>=3.0.1",
+]
